@@ -1,0 +1,6 @@
+REACT_APP_apiKey=AIzaSyBAiqxMjEx7AAfX8Y4I58TqOI7D1pUC9T4
+REACT_APP_authDomain=genius-car-main.firebaseapp.com
+REACT_APP_projectId=genius-car-main
+REACT_APP_storageBucket=genius-car-main.appspot.com
+REACT_APP_messagingSenderId=725579064848
+REACT_APP_appId=1:725579064848:web:75c836182a230db6cb0c95
